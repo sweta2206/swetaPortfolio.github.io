@@ -83,6 +83,19 @@ ul {
   margin-bottom: 15px;
   border-left: 4px solid #4f46e5;
 }
+/* INTERNSHIP CARDS */
+.internship-card {
+  background-color: #f9fafb;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  border-left: 4px solid #4f46e5;
+}
+
+.internship-card h3 {
+  margin-top: 0;
+}
+
 
 .card h3 {
   margin-top: 0;
